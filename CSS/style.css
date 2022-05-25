@@ -47,3 +47,9 @@ body {
   width: 250px;
   margin-bottom: 10px;
 }
+
+.conteiner2 {
+  margin: 0% 25% 0% 25%;
+  display: flex;
+  flex-direction: column;
+}
