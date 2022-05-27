@@ -109,3 +109,17 @@ progress {
   margin-bottom: 3%;
   width: 50%;
 }
+
+/* CONTEINER 4 (parte de contato) */
+
+.conteiner4 {
+  margin: 5% 25% 5% 25%;
+  background-color: #e6e6e6;
+  border-radius: 10px;
+  padding: 30px;
+  text-align: center;
+}
+
+.conteiner4 > h1 {
+  margin-bottom: 5px;
+}
