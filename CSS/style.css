@@ -1,6 +1,3 @@
-body {
-}
-
 /* CABEÇALHO */
 .cabeçalho {
   width: 100%;
@@ -80,9 +77,6 @@ body {
   border-radius: 10px;
   padding: 30px;
   text-align: center;
-}
-
-.quadrados {
 }
 
 .conteiner3 > h1 {
